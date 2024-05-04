@@ -1,0 +1,18 @@
+
+Phần mềm Quản Lý Phòng Gym là một ứng dụng dành cho các phòng gym và trung tâm thể dục để quản lý các hoạt động hàng ngày, thành viên, lịch trình tập luyện và các giao dịch tài chính. Được xây dựng để cung cấp một giải pháp toàn diện và hiệu quả cho việc quản lý phòng gym.
+
+## Tính Năng Chính
+
+1. **Quản lý thành viên**: Ghi chép thông tin cá nhân, lịch sử tập luyện và thanh toán của các hội viên.
+
+2. **Lập lịch và quản lý buổi tập**: Đặt lịch trước cho các buổi tập, theo dõi lịch trình của từng thành viên.
+
+3. **Quản lý tài chính**: Ghi lại các giao dịch tài chính, bao gồm thu phí tập luyện và chi phí vận hành.
+
+4. **Theo dõi hiệu suất và tiến độ**: Theo dõi số lần tập, thời lượng và tiến độ tập luyện của từng hội viên.
+
+5. **Quản lý thiết bị và trang thiết bị**: Theo dõi tình trạng và bảo trì thiết bị tập luyện.
+
+6. **Tương tác với khách hàng**: Gửi thông báo và cập nhật thông tin về các chương trình tập luyện và sự kiện.
+
+
