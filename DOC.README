@@ -1,0 +1,18 @@
+# Phần Mềm Quản Lý Phòng Gym
+
+## Mô Tả
+Dự án này là một ứng dụng phần mềm được phát triển trên nền tảng WinForms (.NET Framework) để quản lý các hoạt động của một phòng gym. Ứng dụng cung cấp các chức năng quản lý hội viên, sản phẩm, dịch vụ và thiết bị.
+
+## Chức Năng
+- **Gia hạn hội viên**: Cho phép quản lý hoặc nhân viên gia hạn thời gian thành viên của hội viên.
+- **Quản lý sản phẩm**: Bao gồm các chức năng thêm, sửa thông tin và xem danh sách sản phẩm trong phòng gym.
+- **Quản lý thiết bị**: Bao gồm các chức năng thêm, sửa thông tin và xem danh sách thiết bị trong phòng gym.
+- **Quản lý hội viên**: Bao gồm các chức năng thêm, sửa thông tin và gia hạn gói dịch vụ của hội viên.
+
+## Cấu Trúc Dự Án
+- **Bus (Business Logic Layer)**: Chứa logic nghiệp vụ của ứng dụng.
+- **DAO (Data Access Layer)**: Đối tượng truy cập dữ liệu, thực hiện các thao tác CRUD với cơ sở dữ liệu.
+- **Resources**: Chứa các tài nguyên như hình ảnh, biểu mẫu, v.v.
+- **DTO (Data Transfer Objects)**: Các đối tượng được sử dụng để truyền tải dữ liệu giữa các lớp.
+
+
