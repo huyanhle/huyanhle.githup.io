@@ -1,0 +1,16 @@
+D:\coongnghe.net\QuanLyPhongGym-goc\QuanLyPhongGym\QuanLy\bin\Debug\QuanLy.exe.config
+D:\coongnghe.net\QuanLyPhongGym-goc\QuanLyPhongGym\QuanLy\bin\Debug\QuanLy.exe
+D:\coongnghe.net\QuanLyPhongGym-goc\QuanLyPhongGym\QuanLy\bin\Debug\QuanLy.pdb
+D:\coongnghe.net\QuanLyPhongGym-goc\QuanLyPhongGym\QuanLy\obj\Debug\QuanLy.csproj.AssemblyReference.cache
+D:\coongnghe.net\QuanLyPhongGym-goc\QuanLyPhongGym\QuanLy\obj\Debug\QuanLy.fGiaHanHV.resources
+D:\coongnghe.net\QuanLyPhongGym-goc\QuanLyPhongGym\QuanLy\obj\Debug\QuanLy.Form1.resources
+D:\coongnghe.net\QuanLyPhongGym-goc\QuanLyPhongGym\QuanLy\obj\Debug\QuanLy.fSuaSP.resources
+D:\coongnghe.net\QuanLyPhongGym-goc\QuanLyPhongGym\QuanLy\obj\Debug\QuanLy.fSuaTB.resources
+D:\coongnghe.net\QuanLyPhongGym-goc\QuanLyPhongGym\QuanLy\obj\Debug\QuanLy.fThemHV.resources
+D:\coongnghe.net\QuanLyPhongGym-goc\QuanLyPhongGym\QuanLy\obj\Debug\QuanLy.fThemSP.resources
+D:\coongnghe.net\QuanLyPhongGym-goc\QuanLyPhongGym\QuanLy\obj\Debug\QuanLy.fThemTB.resources
+D:\coongnghe.net\QuanLyPhongGym-goc\QuanLyPhongGym\QuanLy\obj\Debug\QuanLy.Properties.Resources.resources
+D:\coongnghe.net\QuanLyPhongGym-goc\QuanLyPhongGym\QuanLy\obj\Debug\QuanLy.csproj.GenerateResource.cache
+D:\coongnghe.net\QuanLyPhongGym-goc\QuanLyPhongGym\QuanLy\obj\Debug\QuanLy.csproj.CoreCompileInputs.cache
+D:\coongnghe.net\QuanLyPhongGym-goc\QuanLyPhongGym\QuanLy\obj\Debug\QuanLy.exe
+D:\coongnghe.net\QuanLyPhongGym-goc\QuanLyPhongGym\QuanLy\obj\Debug\QuanLy.pdb
